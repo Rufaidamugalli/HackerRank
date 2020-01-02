@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beecd094-7afb-4689-aa23-9399e17e2e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mugalliRufaida/TimeConv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +143,7 @@
       <workItem from="1574293067520" duration="1592000" />
       <workItem from="1577480613960" duration="416000" />
       <workItem from="1577790726499" duration="640000" />
+      <workItem from="1577953878285" duration="379000" />
     </task>
     <servers />
   </component>
